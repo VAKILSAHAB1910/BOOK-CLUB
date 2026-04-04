@@ -1,5 +1,4 @@
-# BOOK-CLUB 
-<!DOCTYPE HTML> 
+# BOOK-CLUB  
 <HTML><HEAD>
   <TITLE> BOOK CLUB</TITLE>
 </HEAD>
@@ -10,7 +9,7 @@
   <div>
     <h2>available books</h2>
     <h3> Rich dad Poor dad</h3>
-    <img src="C:\Users\pc2\Downloads\download.jfif">
+    <p><img src="C:\Users\pc2\Downloads\download.jfif"></p>
     <p> Price:$300</p>
     <button> Buy Now </button>
     </div><hr>
