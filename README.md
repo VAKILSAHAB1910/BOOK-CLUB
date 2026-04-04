@@ -21,9 +21,9 @@
  <h2> contact us </h2>
  <p>Phone:9352418252</p>
  <p> Location: Rohtak</p>
+    </BODY>
+    </HTML>
  <p><a href="MAILTO:mohit935033@gmail.com">CLUB </a> </p>
-</BODY>
-</HTML>
 
 
   
