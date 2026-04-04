@@ -21,6 +21,7 @@
   <h2> contact us </h2>
   <p>Phone:9352418252</p>
   <p> Location: Rohtak</p>
+      <p><a href="mohit935033@gmail.com"</a> </p>
 </BODY>
 </HTML>
 
