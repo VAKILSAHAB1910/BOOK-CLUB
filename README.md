@@ -22,6 +22,7 @@
  <p>Phone: 9352418252</p>
  <p> Location: Rohtak</p>
  <p><a href="MAILTO:mohit935033@gmail.com">CLUB </a> </p>
-<BODY BGCOLOR="MAROON"TEXT="RED"LINK="GREEN"VLINK="NAVY"ALINK="AQUA">
+      
+<BODY BGCOLOR="MAROON" TEXT="RED" LINK="GREEN" VLINK="NAVY" ALINK="AQUA">
 
   
