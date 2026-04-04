@@ -14,14 +14,14 @@
     <p> Price:$300</p>
     <button> Buy Now </button>
     </div><hr>
-  <h34> Atomic Habit</h34>
-  <p> price:$440</p>
-<button>Buy Now</button>
-  <hr>
-  <h2> contact us </h2>
-  <p>Phone:9352418252</p>
-  <p> Location: Rohtak</p>
-      <p><a href= MAIL TO:"mohit935033@gmail.com" </a> </p>
+    <h3> Atomic Habit</h3>
+ <p> price:$440</p>
+ <button>Buy Now</button>
+ <hr>
+ <h2> contact us </h2>
+ <p>Phone:9352418252</p>
+ <p> Location: Rohtak</p>
+ <p><a href="MAILTO:mohit935033@gmail.com">CLUB </a> </p>
 </BODY>
 </HTML>
 
