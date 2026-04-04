@@ -25,6 +25,7 @@
  <p><a href="MAILTO:mohit935033@gmail.com">CLUB </a> </p>
       <P><FONT SIZE=7 <FONT COLOR="AQUA"></FONT></P>
         
-
+<p style="color: red;">This text is red</p>
+<p style="color: #3498db;">This text is blue</p>
 
   
