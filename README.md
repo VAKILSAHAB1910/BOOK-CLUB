@@ -13,7 +13,7 @@
    <li><a href="https://share.google/8TTL7dHSuSySQDqwi"> link </a></li> 
     <p> Price:$300</p>
     <button> Buy Now </button>
-    </div><hr>
+    <hr>
     <h3> Atomic Habit</h3>
  <p> price:$440</p>
  <button>Buy Now</button>
