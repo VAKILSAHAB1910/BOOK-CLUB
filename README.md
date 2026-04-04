@@ -26,5 +26,19 @@
       <P><FONT SIZE=7 <FONT COLOR="AQUA"></FONT></P>
         
 
-
+<!doctype>
+<html>
+  <head>
+<title> My books club</title>
+    <style>
+      body {
+        backgrounf-color: blue; /*  page background*/
+        color:blue;      /* text color */
+        }
+      hi{
+        color: black;  /* paragraph color*/
+        }
+       </style>
+  </head>
+</html>
   
