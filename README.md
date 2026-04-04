@@ -24,27 +24,3 @@
  <p><a href="MAILTO:mohit935033@gmail.com">CLUB </a> </p>
       <P><FONT SIZE=7 <FONT COLOR="AQUA"></FONT></P>
         
-
-/* Change background and text color site-wide */
-body {
-    background-color: #f5f5f5;
-    color: #333333;
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-}
-
-/* Headers */
-h1, h2, h3, h4 {
-    color: #2c3e50;
-}
-
-/* Links */
-a {
-    color: #e74c3c;
-    text-decoration: none;
-}
-
-a:hover {
-    color: #c0392b;
-    text-decoration: underline;
-}  
