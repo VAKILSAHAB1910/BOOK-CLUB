@@ -22,7 +22,8 @@
  <p>Phone: 9352418252</p>
  <p> Location: Rohtak</p>
  <p><a href="MAILTO:mohit935033@gmail.com">CLUB </a> </p>
-      
+      <P><FONT SIZE=7 <FONT COLOR="AQUA"></FONT></P>
+        
 <BODY BGCOLOR="MAROON" TEXT="RED" LINK="GREEN" VLINK="NAVY" ALINK="AQUA">
 
   
