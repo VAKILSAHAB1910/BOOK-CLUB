@@ -7,19 +7,19 @@
 <P> Buy your favourite books online</P>
   <hr>
   <div>
-    <h2>available books</h2>
+    <h2>Available books</h2>
     <h3> Rich Dad Poor dad</h3>
     <ul>
    <li><a href="https://share.google/8TTL7dHSuSySQDqwi"> link </a></li> 
-    <p> Price:$300</p>
+    <p> Price: $300</p>
     <button> Buy Now </button>
     <hr>
     <h3> Atomic Habit</h3>
- <p> Price:$440</p>
+ <p> Price: $440</p>
  <button>Buy Now</button>
  <hr>
  <h2> Contact Us </h2>
- <p>Phone:9352418252</p>
+ <p>Phone: 9352418252</p>
  <p> Location: Rohtak</p>
     </BODY>
     </HTML>
