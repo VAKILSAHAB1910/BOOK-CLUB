@@ -16,7 +16,6 @@
   <h34> Atomic Habit</h34>
   <p> price:$440</p>
 <button>Buy Now</button>
-</div>
   <hr>
   <h2> contact us </h2>
   <p>Phone:9352418252</p>
